@@ -1,5 +1,6 @@
 # iterioc
 WIP
+
 for the kaggle rps contest.
 
 Needs an agent with functions tweeze and ag defined, the former adjusts the agents' history based on the final choice, and the latter to return a move given obs and conf.
