@@ -2,7 +2,7 @@
 """
 Created on Tue Feb 23 02:31:16 2021
 
-@author: Hamadeh
+@author: Kar Ham
 """
 import np
 import copy
